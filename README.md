@@ -6,49 +6,49 @@ Feel free to explore, fork, remix, or suggest improvements. Let's grow together!
 
 ---
 
-## 🔐 1. Password Generator (Easy) — [`pass_gene_easy.py`](./my_python_projects/pass_gene_easy.py)
+## 🔐 1. Password Generator (Easy) — [`pass_gene_easy.py`](./python_projects/pass_gene_easy.py)
 
 - Generates passwords with a user-defined count of letters, numbers, and symbols (no shuffle).
 - Great for learning basic string handling, loops, and `random` module basics.
 
 ---
 
-## 🔒 2. Password Generator (Strong) — [`pass_gene_hard.py`](./my_python_projects/pass_gene_hard.py)
+## 🔒 2. Password Generator (Strong) — [`pass_gene_hard.py`](./python_projects/pass_gene_hard.py)
 
 - Enhanced version that **shuffles characters** for better security.
 - Reinforces list operations, `random.shuffle()`, and secure input design.
 
 ---
 
-## 🧠 3. Band Name Generator — [`band_name.py`](./my_python_projects/band_name.py)
+## 🧠 3. Band Name Generator — [`band_name.py`](./python_projects/band_name.py)
 
 - A fun tool that combines your city and pet's name to suggest a band name.
 - Perfect for practicing **user input** and **string formatting**.
 
 ---
 
-## ✂️ 4. Rock Paper Scissors Game — [`RCP_GAME.py`](./my_python_projects/RCP_GAME.py)
+## ✂️ 4. Rock Paper Scissors Game — [`RCP_GAME.py`](./python_projects/RCP_GAME.py)
 
 - Classic Rock-Paper-Scissors game with **ASCII art** and **replay option**.
 - Covers `random`, `time.sleep()`, loops, and conditional logic.
 
 ---
 
-## 💰 5. Tip Calculator — [`tip-calci.py`](./my_python_projects/tip-calci.py)
+## 💰 5. Tip Calculator — [`tip-calci.py`](./python_projects/tip-calci.py)
 
 - Splits a restaurant bill with tip among friends.
 - Excellent for learning **math operations**, input validation, and **formatted outputs**.
 
 ---
 
-## 🗺️ 6. Treasure Hunt Text Adventure — [`treasure-hunt.py`](./my_python_projects/treasure-hunt.py)
+## 🗺️ 6. Treasure Hunt Text Adventure — [`treasure-hunt.py`](./python_projects/treasure-hunt.py)
 
 - Interactive story-based game with branching choices and ASCII visuals.
 - Encourages **function usage**, **nested conditionals**, and **creative thinking**.
 
 ---
 
-## 🎮 7. Hangman Showdown — [`my_hangman.py`](./my_python_projects/my_hangman.py)
+## 🎮 7. Hangman Showdown — [`my_hangman.py`](./python_projects/my_hangman.py)
 
 - 💀 Classic Hangman game with word guessing and life system.
 - 🧠 Tests your vocabulary and logic with only 6 chances!
@@ -56,7 +56,7 @@ Feel free to explore, fork, remix, or suggest improvements. Let's grow together!
 
 ---
 
-## 🛡️ 8. Jone's Key Algo: Encrypt It or Lose It! — [`caesar_cipher.py`](./my_python_projects/caesar_cipher.py)
+## 🛡️ 8. Jone's Key Algo: Encrypt It or Lose It! — [`caesar_cipher.py`](./python_projects/caesar_cipher.py)
 
 - A **Caesar cipher**-style message encryption program with random symbol masking.
 - 🔐 Hide messages with a secret key, recover only if decoded properly.
@@ -64,7 +64,7 @@ Feel free to explore, fork, remix, or suggest improvements. Let's grow together!
 
 ---
 
-## 🎮 9. Blackjack Terminal Edition: Ace the Console! — [`blackjack.py`](./my_python_projects/blackjack.py)
+## 🎮 9. Blackjack Terminal Edition: Ace the Console! — [`blackjack.py`](./python_projects/blackjack.py)
 
 - 🃏 Fully interactive Blackjack card game in the terminal with ASCII design.
 - 🔢 Real-time user decisions, dealer logic, and formatted gameplay.
@@ -72,7 +72,7 @@ Feel free to explore, fork, remix, or suggest improvements. Let's grow together!
 
 ---
 
-## 🧮 10. Simple Smart Calculator: CLI Edition — [`calculator.py`](./my_python_projects/calculator.py)
+## 🧮 10. Simple Smart Calculator: CLI Edition — [`calculator.py`](./python_projects/calculator.py)
 
 - ➕ Performs addition, subtraction, multiplication, and division.
 - 🔁 Clean input loop with options to restart or exit after each calculation.
@@ -80,7 +80,7 @@ Feel free to explore, fork, remix, or suggest improvements. Let's grow together!
 
 ---
 
-## 🔐 11. Blind Auction CLI — [`blind_auction.py`](./my_python_projects/blind_auction.py)
+## 🔐 11. Blind Auction CLI — [`blind_auction.py`](./python_projects/blind_auction.py)
 
 - A suspense-filled blind auction game that keeps bids secret until the end.
 - Bidders enter their bids one at a time, hiding all previous bids.
