@@ -102,7 +102,7 @@ I’m constantly building and improving my skills in:
 ## 📬 Feedback & Collaboration
 
 Found a bug? Got a cool idea to improve a project?  
-Feel free to [open an issue](https://github.com/your-username/python_projects/issues) or [submit a pull request](https://github.com/your-username/python_projects/pulls).  
+Feel free to [open an issue](https://github.com/sylvernjones557/python_projects/issues) or [submit a pull request](https://github.com/sylvernjones557/python_projects/pulls).  
 Let’s build something awesome together! 💡
 
 ---
