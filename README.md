@@ -56,7 +56,7 @@ Feel free to explore, fork, remix, or suggest improvements. Let's grow together!
 
 ---
 
-## 🛡️ 8. Jone's Key Algo: Encrypt It or Lose It! — [`caesar_encryption.py`](./caesar_encryption.py)
+## 🛡️ 8. Jone's Key Algo: Encrypt It or Lose It! — [`caesar_cipher.py`](./caesar_cipher.py)
 
 - A **Caesar cipher**-style message encryption program with random symbol masking.
 - 🔐 Hide messages with a secret key, recover only if decoded properly.
